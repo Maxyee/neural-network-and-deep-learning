@@ -18,7 +18,7 @@ pip3 install matplotlib
 ```
 
 # Machine Learning Concepts
-- [K-Nearest-Neighbour(KNN)]()
+- [K-Nearest-Neighbour(KNN)](https://github.com/Maxyee/neural-network-and-deep-learning/tree/main/machine-learning-concepts/KNN)
 
 # Deep Learning Concepts
 - [Pytorch]()
