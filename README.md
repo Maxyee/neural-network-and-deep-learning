@@ -1,3 +1,6 @@
+# Machine Learning Concepts
+- [K-Nearest-Neighbour(KNN)]()
+
 # Deep Learning Concepts
 - [Pytorch]()
 
