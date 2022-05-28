@@ -19,6 +19,8 @@ pip3 install matplotlib
 
 # Machine Learning Concepts
 - [K-Nearest-Neighbour(KNN)](https://github.com/Maxyee/neural-network-and-deep-learning/tree/main/machine-learning-concepts/KNN)
+- [Linear-Regression](https://github.com/Maxyee/neural-network-and-deep-learning/tree/main/machine-learning-concepts/LinearRegression)
+- [Logistic-Regression](https://github.com/Maxyee/neural-network-and-deep-learning/tree/main/machine-learning-concepts/LogisticRegression)
 
 # Deep Learning Concepts
 - [Pytorch]()
