@@ -22,6 +22,8 @@ pip3 install matplotlib
 - [Linear-Regression](https://github.com/Maxyee/neural-network-and-deep-learning/tree/main/machine-learning-concepts/LinearRegression)
 - [Logistic-Regression](https://github.com/Maxyee/neural-network-and-deep-learning/tree/main/machine-learning-concepts/LogisticRegression)
 - [Naive-Bayes](https://github.com/Maxyee/neural-network-and-deep-learning/tree/main/machine-learning-concepts/NaiveBayes)
+- [Perceptron](https://github.com/Maxyee/neural-network-and-deep-learning/tree/main/machine-learning-concepts/Perceptron)
+- [SVM](https://github.com/Maxyee/neural-network-and-deep-learning/tree/main/machine-learning-concepts/SVM)
 
 # Deep Learning Concepts
 - [Pytorch]()
