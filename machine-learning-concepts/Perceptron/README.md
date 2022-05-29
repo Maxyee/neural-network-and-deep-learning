@@ -1,3 +1,3 @@
 # Perceptron Model
 
-![alt text](https://github.com/Maxyee/neural-network-and-deep-learning/blob/master/Perceptron/screenshots/output.png)
+![alt text](https://github.com/Maxyee/neural-network-and-deep-learning/blob/main/machine-learning-concepts/Perceptron/screenshots/output.png)
