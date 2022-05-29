@@ -1,7 +1,4 @@
-from audioop import bias
 import numpy as np
-
-
 class LinearRegression:
     def __init__(self, lr=0.001, n_iters=1000):
         self.lr = lr
